@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//self programme 
 int main()
 {
     int n=5;
