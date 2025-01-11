@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // vector<int>vec;
+    // vector<int>vec;//empty vecotr initalised
 
     // vector<int> vec={1,2,3};
     // cout<<vec[0];
@@ -24,7 +24,7 @@ int main()
 
     vector <char > vec {'a','b','c','d','e'};
 
-    // cout<<"Size  = "<<vec.size()<<endl;
+    // cout<<"Size  = "<<vec.size()<<endl;//for check the size of vector
 
     // vec.push_back('f');
 
@@ -45,6 +45,6 @@ int main()
     // cout<<vec.front();
     // cout<<vec.back();
 
-    cout<<vec.at(1);
+    cout<<vec.at(1);//for index value
     return 0;
 }

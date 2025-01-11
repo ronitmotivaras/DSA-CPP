@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int sumOfDigits(int num){
     int digitSum=0;
     while(num>0){
@@ -9,6 +10,7 @@ int sumOfDigits(int num){
     }
     return digitSum;
 }
+
 int main()
 {
     cout<<"Sum of Digits : "<<sumOfDigits(123);

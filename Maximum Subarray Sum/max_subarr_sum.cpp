@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//brute force approach
 int main()
 {
     int n=5;
